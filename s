@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow, noarchive">
+    <title>Weiterleitung...</title>
+    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1828Bn1mwubUrvxLdHesgOxsfeml7hqYn/view?usp=sharing">
+    <script>
+        window.location.href = "https://drive.google.com/file/d/1828Bn1mwubUrvxLdHesgOxsfeml7hqYn/view?usp=sharing";
+    </script>
+</head>
+<body>
+    <p>Falls Sie nicht automatisch weitergeleitet werden, <a href="https://drive.google.com/file/d/1828Bn1mwubUrvxLdHesgOxsfeml7hqYn/view?usp=sharing">klicken Sie bitte hier</a>.</p>
+</body>
+</html>
